@@ -2,6 +2,10 @@ Revision history for Perl extension Global-IPC-StaticVariable
 
 {{$NEXT}}
 
+0.011 2016-09-02T03:09:33Z
+
+    - add usage
+
 0.01 2016-09-02T02:30:31Z
 
     - original version
