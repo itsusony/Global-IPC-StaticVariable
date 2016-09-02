@@ -2,6 +2,9 @@ Revision history for Perl extension Global-IPC-StaticVariable
 
 {{$NEXT}}
 
+0.013 2016-09-02T08:18:33Z
+    - add deps of 'Test::LeakTrace'
+
 0.012 2016-09-02T03:10:57Z
     - update pod
     - change license to MIT
