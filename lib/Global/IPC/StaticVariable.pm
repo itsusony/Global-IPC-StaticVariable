@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Exporter 'import';
 
-our $VERSION = "0.011";
+our $VERSION = "0.012";
 
 our @EXPORT_OK = qw( 
     var_create
@@ -43,7 +43,8 @@ And all of the updating operation is under the mutex lock for data safety.
 =head1 USAGE
 
 # 0. use Global::IPC::StaticVariable;  
-use Global::IPC::StaticVariable qw/var_create var_destory var_read var_update var_append var_getreset var_length/;  
+  
+  use Global::IPC::StaticVariable qw/var_create var_destory var_read var_update var_append var_getreset var_length/;  
   
 # 1. create a new global sysv ipc id  
   

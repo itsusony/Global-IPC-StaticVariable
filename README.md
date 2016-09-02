@@ -17,7 +17,9 @@ And all of the updating operation is under the mutex lock for data safety.
 # USAGE
 
 \# 0. use Global::IPC::StaticVariable;  
-use Global::IPC::StaticVariable qw/var\_create var\_destory var\_read var\_update var\_append var\_getreset var\_length/;  
+
+    use Global::IPC::StaticVariable qw/var_create var_destory var_read var_update var_append var_getreset var_length/;  
+    
 
 \# 1. create a new global sysv ipc id  
 
