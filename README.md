@@ -16,7 +16,7 @@ And all of the updating operation is under the mutex lock for data safety.
 
 # LICENSE
 
-Copyright (C) itsusony. FreakOut.
+Copyright (C) itsusony. FreakOut.  
 MIT License
 
 # AUTHOR
