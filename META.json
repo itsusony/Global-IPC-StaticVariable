@@ -28,7 +28,7 @@
    "prereqs" : {
       "configure" : {
          "requires" : {
-            "Module::Build::Tiny" : "0.035"
+            "Module::Build" : "0.4005"
          }
       },
       "develop" : {
@@ -64,6 +64,6 @@
          "web" : "https://github.com/itsusony/Global-IPC-StaticVariable"
       }
    },
-   "version" : "0.013",
+   "version" : "0.014",
    "x_authority" : "cpan:ITSUSONY"
 }

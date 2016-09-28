@@ -2,6 +2,10 @@ Revision history for Perl extension Global-IPC-StaticVariable
 
 {{$NEXT}}
 
+0.014 2016-09-28T03:08:09Z
+    - use Module::Build
+    - add -pthread option
+
 0.013 2016-09-02T08:18:33Z
     - add deps of 'Test::LeakTrace'
 
