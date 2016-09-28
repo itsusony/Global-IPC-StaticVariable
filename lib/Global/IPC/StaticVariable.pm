@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Exporter 'import';
 
-our $VERSION = "0.014";
+our $VERSION = "0.015";
 
 our @EXPORT_OK = qw( 
     var_create

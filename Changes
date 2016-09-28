@@ -2,6 +2,10 @@ Revision history for Perl extension Global-IPC-StaticVariable
 
 {{$NEXT}}
 
+0.015 2016-09-28T03:23:59Z
+    - add benchmark/var_update.t
+    - add benchmark/var_read.t
+
 0.014 2016-09-28T03:08:09Z
     - use Module::Build
     - add -pthread option
